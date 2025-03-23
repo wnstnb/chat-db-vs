@@ -58,7 +58,8 @@ CREATE EXTENSION IF NOT EXISTS vector;
 
 ### 2. Train the Model
 
-Run the training script to load example data into Supabase:
+Fill in the necessary variables with relevant SQL question pairs, DDL and extraneous documentation. 
+Then, run the training script to load example data into Supabase:
 
 ```bash
 python train_supabase.py
