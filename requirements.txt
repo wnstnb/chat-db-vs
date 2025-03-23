@@ -1,0 +1,4 @@
+pandas
+numpy
+vanna[chromadb,openai,postgres]
+python-dotenv
